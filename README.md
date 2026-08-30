@@ -25,7 +25,7 @@ A curated list of awesome Laravel Horizon-related resources
 - [laravel-horizon-tag-search-in-pending-and-completed-jobs](https://github.com/mvd81/laravel-horizon-tag-search-in-pending-and-completed-jobs) - Allows searching in pending and completed jobs.
 - [horizon-ui](https://github.com/negoziator/horizon-ui) - Fully-featured Horizon dashboard
 - [horizon-config-tags](https://github.com/mustorze/horizon-config-tags) - Allows to configure monitored tags in the code.
-- [Graphana dashboard for Horizon](https://grafana.com/grafana/dashboards/11034-laravel-horizon/)
+- [Grafana dashboard for Horizon](https://grafana.com/grafana/dashboards/11034-laravel-horizon/)
 
 ## Horizon alternatives
 - [Skyline](https://boring-observability.dev/skyline) - A commercial drop-in replacement with better visibility and operational controls.
