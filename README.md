@@ -28,8 +28,9 @@ A curated list of awesome Larabel Horizon-related resources
 - [Graphana dashboard for Horizon](https://grafana.com/grafana/dashboards/11034-laravel-horizon/)
 
 ## Horizon alternatives
+- [Skyline](https://boring-observability.dev/skyline) - A commercial drop-in replacement with better visibility and operational controls.
 - [laravel-zenith](https://github.com/smwks/laravel-zenith) - Laravel Horizon for database-backed queues — real-time dashboard and worker management for the database queue driver.
-- [skyline](https://boring-observability.dev/skyline) - Commercial fork with better visibility and operational controls
+- [JobWarden](https://github.com/kpconnell/laravel-jobwarden) - A database-backed alternative to Horizon.
 - [station](https://github.com/ojbaeza/station) - A Laravel Horizon alternative with RabbitMQ support, multi-driver architecture, advanced job recovery capabilities, and a modern Vue 3 dashboard.
 - [periscope](https://github.com/maherelgamil/periscope) - Universal queue monitor and manage for Laravel — a driver-agnostic alternative to Horizon. Redis, database, SQS, Beanstalkd.
 
