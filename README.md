@@ -4,6 +4,14 @@ A curated list of awesome Larabel Horizon-related resources
 
 - [Horizon official web site](https://laravel.com/docs/horizon)
 
+## Blog posts
+- [Laravel Background Jobs: 12 Best Practices for Production Queues](https://boring-observability.dev/blog/laravel-background-jobs-best-practices)
+- [Rate-Limited APIs and Laravel Queues: One Request at a Time, Without Starving the Rest](https://boring-observability.dev/blog/laravel-queue-rate-limiting-concurrency)
+- [Laravel Job timeout vs retry_after: The Ordering Rule Nothing Enforces](https://boring-observability.dev/blog/laravel-queue-timeout-retry-after)
+- [Laravel Horizon Queue Balancing: Idle Workers vs. Starved Queues](https://boring-observability.dev/blog/laravel-horizon-queue-balancing-tradeoffs)
+- [Laravel Job Uniqueness Controls](https://boring-observability.dev/blog/laravel-job-uniqueness-controls)
+- [Laravel Cloud Managed Queues vs Horizon: What You Give Up and What You Get](https://hafiz.dev/blog/laravel-cloud-managed-queues-vs-horizon)
+
 ## Queue drivers
 - [kafka-queue](https://github.com/laravel-tool/kafka-queue) - Laravel Kafka Queue connection with Horizon support.
 - [laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq) - RabbitMQ driver for Laravel Queue with Horizon support.
