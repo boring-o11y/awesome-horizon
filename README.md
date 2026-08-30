@@ -1,6 +1,6 @@
 # Awesome Horizon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Larabel Horizon-related resources
+A curated list of awesome Laravel Horizon-related resources
 
 - [Horizon official web site](https://laravel.com/docs/horizon)
 
