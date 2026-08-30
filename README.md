@@ -35,6 +35,7 @@ A curated list of awesome Laravel Horizon-related resources
 - [periscope](https://github.com/maherelgamil/periscope) - Universal queue monitor and manage for Laravel — a driver-agnostic alternative to Horizon. Redis, database, SQS, Beanstalkd.
 
 ## Other  
+- [laravel-balanced-queue](https://github.com/YanGusik/laravel-balanced-queue) - A Laravel package for queue management with load balancing between partitions (user groups). Perfect for scenarios where you need fair job distribution and concurrency control per user/tenant.
 - [laravel-horizon-cluster](https://github.com/daison12006013/laravel-horizon-cluster) - Laravel Horizon - Redis Cluster Support.
 - [horizon-cluster-scaling](https://github.com/deniscsz/horizon-cluster-scaling) - Makes Laravel Horizon cluster-aware by dynamically adjusting minProcesses and maxProcesses based on the number of active master supervisors across your server cluster.
 - [laravel-dynamic-horizon](https://github.com/smskin/laravel-dynamic-horizon) - Dynamic supervisors(consumers) & queues for the laravel horizon.
