@@ -6,6 +6,7 @@ A curated list of awesome Laravel Horizon-related resources
 
 ## Blog posts
 - [Laravel Background Jobs: 12 Best Practices for Production Queues](https://boring-observability.dev/blog/laravel-background-jobs-best-practices)
+- [Scaling Laravel queues in production: Horizon, Redis, and multi-server workers](https://richdynamix.com/articles/scaling-laravel-queues-production-guide)
 - [Rate-Limited APIs and Laravel Queues: One Request at a Time, Without Starving the Rest](https://boring-observability.dev/blog/laravel-queue-rate-limiting-concurrency)
 - [Laravel Job timeout vs retry_after: The Ordering Rule Nothing Enforces](https://boring-observability.dev/blog/laravel-queue-timeout-retry-after)
 - [Laravel Horizon Queue Balancing: Idle Workers vs. Starved Queues](https://boring-observability.dev/blog/laravel-horizon-queue-balancing-tradeoffs)
