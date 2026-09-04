@@ -32,6 +32,7 @@ A curated list of awesome Laravel Horizon-related resources
 - [Skyline](https://boring-observability.dev/skyline) - A commercial drop-in replacement with better visibility and operational controls.
 - [laravel-zenith](https://github.com/smwks/laravel-zenith) - Laravel Horizon for database-backed queues — real-time dashboard and worker management for the database queue driver.
 - [JobWarden](https://github.com/kpconnell/laravel-jobwarden) - A database-backed alternative to Horizon.
+- [Moox jobs](https://github.com/mooxphp/jobs) - Filament plugin for managing job queues, failed jobs and batches.
 - [station](https://github.com/ojbaeza/station) - A Laravel Horizon alternative with RabbitMQ support, multi-driver architecture, advanced job recovery capabilities, and a modern Vue 3 dashboard.
 - [periscope](https://github.com/maherelgamil/periscope) - Universal queue monitor and manage for Laravel — a driver-agnostic alternative to Horizon. Redis, database, SQS, Beanstalkd.
 
