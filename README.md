@@ -3,6 +3,7 @@
 A curated list of awesome Laravel Horizon-related resources
 
 - [Horizon official web site](https://laravel.com/docs/horizon)
+- [Skyline](https://boring-observability.dev/skyline) - A commercial drop-in replacement with better visibility and operational controls.
 
 ## Blog posts
 - [Laravel Background Jobs: 12 Best Practices for Production Queues](https://boring-observability.dev/blog/laravel-background-jobs-best-practices)
@@ -19,6 +20,7 @@ A curated list of awesome Laravel Horizon-related resources
 
 ## Dashboards and dashboard improvements
 - [deck](https://github.com/getdeckapp/deck) - Job-class observability and safe cancellation for Laravel apps running Horizon.
+- [horizon-delayed-jobs](https://github.com/boring-o11y/horizon-delayed-jobs) - Delayed jobs view (scheduled / retries) for Laravel Horizon.
 - [Horizon new dawn](https://github.com/nckrtl/horizon-new-dawn) - A React and Inertia interface for Laravel Horizon.
 - [Horizon hub](https://github.com/enegalan/horizonhub) - Centralized dashboard for monitoring Laravel Horizon jobs across multiple services.
 - [laravel-queue-insights](https://github.com/SanderMuller/laravel-queue-insights) - Self-hosted, driver-agnostic queue observability for Laravel.
@@ -30,7 +32,6 @@ A curated list of awesome Laravel Horizon-related resources
 - [Grafana dashboard for Horizon](https://grafana.com/grafana/dashboards/11034-laravel-horizon/)
 
 ## Horizon alternatives
-- [Skyline](https://boring-observability.dev/skyline) - A commercial drop-in replacement with better visibility and operational controls.
 - [laravel-zenith](https://github.com/smwks/laravel-zenith) - Laravel Horizon for database-backed queues — real-time dashboard and worker management for the database queue driver.
 - [JobWarden](https://github.com/kpconnell/laravel-jobwarden) - A database-backed alternative to Horizon.
 - [Moox jobs](https://github.com/mooxphp/jobs) - Filament plugin for managing job queues, failed jobs and batches.
