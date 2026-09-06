@@ -20,6 +20,7 @@ A curated list of awesome Laravel Horizon-related resources
 ## Dashboards and dashboard improvements
 - [deck](https://github.com/getdeckapp/deck) - Job-class observability and safe cancellation for Laravel apps running Horizon.
 - [Horizon new dawn](https://github.com/nckrtl/horizon-new-dawn) - A React and Inertia interface for Laravel Horizon.
+- [Horizon hub](https://github.com/enegalan/horizonhub) - Centralized dashboard for monitoring Laravel Horizon jobs across multiple services.
 - [laravel-queue-insights](https://github.com/SanderMuller/laravel-queue-insights) - Self-hosted, driver-agnostic queue observability for Laravel.
 - [laravel-horizon-running-jobs](https://github.com/ashiqfardus/laravel-horizon-running-jobs) - Monitor currently running jobs in Laravel Horizon.
 - [laravel-horizon-job-output](https://github.com/knobik/laravel-horizon-job-output) - Give a queued job the same output API an Artisan command has, and watch it live on the Horizon job details page.
