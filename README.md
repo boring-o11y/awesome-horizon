@@ -37,6 +37,7 @@ A curated list of awesome Laravel Horizon-related resources
 - [Moox jobs](https://github.com/mooxphp/jobs) - Filament plugin for managing job queues, failed jobs and batches.
 - [station](https://github.com/ojbaeza/station) - A Laravel Horizon alternative with RabbitMQ support, multi-driver architecture, advanced job recovery capabilities, and a modern Vue 3 dashboard.
 - [periscope](https://github.com/maherelgamil/periscope) - Universal queue monitor and manage for Laravel — a driver-agnostic alternative to Horizon. Redis, database, SQS, Beanstalkd.
+- [Laravel Queue Monitor](https://github.com/romanzipp/Laravel-Queue-Monitor) - Monitoring Laravel Jobs with your Database
 
 ## Other  
 - [laravel-balanced-queue](https://github.com/YanGusik/laravel-balanced-queue) - A Laravel package for queue management with load balancing between partitions (user groups). Perfect for scenarios where you need fair job distribution and concurrency control per user/tenant.
