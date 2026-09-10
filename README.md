@@ -13,6 +13,7 @@ A curated list of awesome Laravel Horizon-related resources
 - [Laravel Horizon Queue Balancing: Idle Workers vs. Starved Queues](https://boring-observability.dev/blog/laravel-horizon-queue-balancing-tradeoffs)
 - [Laravel Job Uniqueness Controls](https://boring-observability.dev/blog/laravel-job-uniqueness-controls)
 - [Laravel Cloud Managed Queues vs Horizon: What You Give Up and What You Get](https://hafiz.dev/blog/laravel-cloud-managed-queues-vs-horizon)
+- [A Series of Unfortunate Jobs](https://oussama-mater.tech/laravel-queue-gotchas/) - Laravel queue gotchas
 
 ## Queue drivers
 - [kafka-queue](https://github.com/laravel-tool/kafka-queue) - Laravel Kafka Queue connection with Horizon support.
