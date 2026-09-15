@@ -11,6 +11,7 @@ A curated list of awesome Laravel Horizon-related resources
 - [Rate-Limited APIs and Laravel Queues: One Request at a Time, Without Starving the Rest](https://boring-observability.dev/blog/laravel-queue-rate-limiting-concurrency)
 - [Laravel Job timeout vs retry_after: The Ordering Rule Nothing Enforces](https://boring-observability.dev/blog/laravel-queue-timeout-retry-after)
 - [Laravel Horizon Queue Balancing: Idle Workers vs. Starved Queues](https://boring-observability.dev/blog/laravel-horizon-queue-balancing-tradeoffs)
+- [Logarithmic auto-scaling for Laravel Horizon](https://gummibeer.dev/blog/2026/logarithmic-auto-scaling-laravel-horizon)
 - [Laravel Job Uniqueness Controls](https://boring-observability.dev/blog/laravel-job-uniqueness-controls)
 - [Laravel Cloud Managed Queues vs Horizon: What You Give Up and What You Get](https://hafiz.dev/blog/laravel-cloud-managed-queues-vs-horizon)
 - [A Series of Unfortunate Jobs](https://oussama-mater.tech/laravel-queue-gotchas/) - Laravel queue gotchas
