@@ -16,6 +16,9 @@ A curated list of awesome Laravel Horizon-related resources
 - [Laravel Cloud Managed Queues vs Horizon: What You Give Up and What You Get](https://hafiz.dev/blog/laravel-cloud-managed-queues-vs-horizon)
 - [A Series of Unfortunate Jobs](https://oussama-mater.tech/laravel-queue-gotchas/) - Laravel queue gotchas
 
+## Videos
+- [Laravel Queues: 11 Must-Know Advanced Tips](https://www.youtube.com/watch?v=PeDiswbjLq8)
+
 ## Queue drivers
 - [kafka-queue](https://github.com/laravel-tool/kafka-queue) - Laravel Kafka Queue connection with Horizon support.
 - [laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq) - RabbitMQ driver for Laravel Queue with Horizon support.
