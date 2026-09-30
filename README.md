@@ -26,6 +26,7 @@ A curated list of awesome Laravel Horizon-related resources
 ## Dashboards and dashboard improvements
 - [deck](https://github.com/getdeckapp/deck) - Job-class observability and safe cancellation for Laravel apps running Horizon.
 - [horizon-delayed-jobs](https://github.com/boring-o11y/horizon-delayed-jobs) - Delayed jobs view (scheduled / retries) for Laravel Horizon.
+- [horizon-worker-stats](https://github.com/boring-o11y/horizon-worker-stats) - Display memory and CPU stats of the workers.
 - [Horizon new dawn](https://github.com/nckrtl/horizon-new-dawn) - A React and Inertia interface for Laravel Horizon.
 - [Horizon hub](https://github.com/enegalan/horizonhub) - Centralized dashboard for monitoring Laravel Horizon jobs across multiple services.
 - [laravel-queue-insights](https://github.com/SanderMuller/laravel-queue-insights) - Self-hosted, driver-agnostic queue observability for Laravel.
@@ -55,6 +56,7 @@ A curated list of awesome Laravel Horizon-related resources
 - [horizon-cluster-scaling](https://github.com/deniscsz/horizon-cluster-scaling) - Makes Laravel Horizon cluster-aware by dynamically adjusting minProcesses and maxProcesses based on the number of active master supervisors across your server cluster.
 - [laravel-dynamic-horizon](https://github.com/smskin/laravel-dynamic-horizon) - Dynamic supervisors(consumers) & queues for the laravel horizon.
 - [horizon-telemetry](https://github.com/worksome/horizon-telemetry) - An Opentelemetry instrumentation for Laravel Horizon.
+- [horizon-prometheus-exporter](https://github.com/boring-o11y/horizon-prometheus-exporter) - Per job prometheus exporter for Laravel Horizon.
 
 ## Discontinued projects
 - [horizon-extended-dashboard](https://github.com/VincentBean/horizon-extended-dashboard) - An extended dashboard for Laravel Horizon written using Livewire.
