@@ -57,6 +57,7 @@ A curated list of awesome Laravel Horizon-related resources
 - [laravel-dynamic-horizon](https://github.com/smskin/laravel-dynamic-horizon) - Dynamic supervisors(consumers) & queues for the laravel horizon.
 - [horizon-telemetry](https://github.com/worksome/horizon-telemetry) - An Opentelemetry instrumentation for Laravel Horizon.
 - [horizon-prometheus-exporter](https://github.com/boring-o11y/horizon-prometheus-exporter) - Per job prometheus exporter for Laravel Horizon.
+- [laravel-unique-job-locks](https://github.com/MohannadElemary/laravel-unique-job-locks) - Find out why a ShouldBeUnique job won't dispatch: list and explain the unique-job locks held in your Laravel Redis cache store.
 
 ## Discontinued projects
 - [horizon-extended-dashboard](https://github.com/VincentBean/horizon-extended-dashboard) - An extended dashboard for Laravel Horizon written using Livewire.
