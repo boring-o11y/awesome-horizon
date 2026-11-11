@@ -6,15 +6,19 @@ A curated list of awesome Laravel Horizon-related resources
 - [Skyline](https://boring-observability.dev/skyline) - A commercial drop-in replacement with better visibility and operational controls.
 
 ## Blog posts
-- [Laravel Background Jobs: 12 Best Practices for Production Queues](https://boring-observability.dev/blog/laravel-background-jobs-best-practices)
-- [Scaling Laravel queues in production: Horizon, Redis, and multi-server workers](https://richdynamix.com/articles/scaling-laravel-queues-production-guide)
-- [Rate-Limited APIs and Laravel Queues: One Request at a Time, Without Starving the Rest](https://boring-observability.dev/blog/laravel-queue-rate-limiting-concurrency)
-- [Laravel Job timeout vs retry_after: The Ordering Rule Nothing Enforces](https://boring-observability.dev/blog/laravel-queue-timeout-retry-after)
-- [Laravel Horizon Queue Balancing: Idle Workers vs. Starved Queues](https://boring-observability.dev/blog/laravel-horizon-queue-balancing-tradeoffs)
-- [Logarithmic auto-scaling for Laravel Horizon](https://gummibeer.dev/blog/2026/logarithmic-auto-scaling-laravel-horizon)
-- [Laravel Job Uniqueness Controls](https://boring-observability.dev/blog/laravel-job-uniqueness-controls)
-- [Laravel Cloud Managed Queues vs Horizon: What You Give Up and What You Get](https://hafiz.dev/blog/laravel-cloud-managed-queues-vs-horizon)
 - [A Series of Unfortunate Jobs](https://oussama-mater.tech/laravel-queue-gotchas/) - Laravel queue gotchas
+- [Extending the Horizon Dashboard: Adding a UI to a Compiled Vue Bundle](https://boring-observability.dev/blog/extending-the-horizon-dashboard)
+- [Laravel Background Jobs: 12 Best Practices for Production Queues](https://boring-observability.dev/blog/laravel-background-jobs-best-practices)
+- [Laravel Cloud Managed Queues vs Horizon: What You Give Up and What You Get](https://hafiz.dev/blog/laravel-cloud-managed-queues-vs-horizon)
+- [Laravel Horizon Alerting: What Horizon Sends on Its Own and What Prometheus Adds](https://boring-observability.dev/blog/laravel-horizon-alerting)
+- [Laravel Horizon Queue Balancing: Idle Workers vs. Starved Queues](https://boring-observability.dev/blog/laravel-horizon-queue-balancing-tradeoffs)
+- [Laravel Interruptible Jobs: interrupted(), SIGALRM and horizon:terminate](https://boring-observability.dev/blog/laravel-interruptible-jobs)
+- [Laravel Job timeout vs retry_after: The Ordering Rule Nothing Enforces](https://boring-observability.dev/blog/laravel-queue-timeout-retry-after)
+- [Laravel ShouldBeUnique: What Breaks Under Real Traffic](https://boring-observability.dev/blog/laravel-job-uniqueness-controls)
+- [Logarithmic auto-scaling for Laravel Horizon](https://gummibeer.dev/blog/2026/logarithmic-auto-scaling-laravel-horizon)
+- [Rate-Limited APIs and Laravel Queues: One Request at a Time, Without Starving the Rest](https://boring-observability.dev/blog/laravel-queue-rate-limiting-concurrency)
+- [Scaling Laravel queues in production: Horizon, Redis, and multi-server workers](https://richdynamix.com/articles/scaling-laravel-queues-production-guide)
+
 
 ## Videos
 - [Laravel Queues: 11 Must-Know Advanced Tips](https://www.youtube.com/watch?v=PeDiswbjLq8)
